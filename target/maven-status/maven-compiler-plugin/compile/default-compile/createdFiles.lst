@@ -1,0 +1,6 @@
+br/com/freteex/domain/model/Usuario.class
+br/com/freteex/FreteexApplication.class
+br/com/freteex/interfaces/controller/FreteController.class
+br/com/freteex/dto/UsuarioRequest.class
+br/com/freteex/application/service/FreteService.class
+br/com/freteex/domain/repository/UsuarioRepository.class
